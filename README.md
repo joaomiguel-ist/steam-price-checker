@@ -6,6 +6,8 @@ The refresh time is 1 hour, but can be changed in the script in the last line.
 
 All price is in USD
 
+Script was written in python3
+
 ## How to
 
 1. Get your steam game appIDs
@@ -14,9 +16,6 @@ All price is in USD
 
 2. Run the script
 3. Insert the appIDs and separate with spaces (not commas)
-
-
-
 4. Choose your target price in USD (If you don't want this, just type a low number like 1)
 5. Decide if you want to get alert when the game is on a discount (discount percent > 0)
 6. Minimize and wait
