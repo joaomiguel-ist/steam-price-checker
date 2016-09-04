@@ -7,5 +7,11 @@ The refresh time is 1 hour, but can be changed in the script on the last line.
 ## How to
 
 1. Get your steam game appIDs
-![alt text][logo]
-[logo]https://github.com/tr3boo/steam-price-checker/blob/master/appid.png "Get steam appID"
+
+<img src="https://github.com/tr3boo/steam-price-checker/blob/master/appid.png" width="400" heigh="400">
+
+2. Run the script
+3. Insert the appIDs
+4. Choose your target price (If you don't want this, just type a low number like 1)
+5. Decide if you want to get alert when the game is on a discount (discount percent > 0)
+6. Minimize and wait
