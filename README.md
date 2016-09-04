@@ -22,4 +22,4 @@ Script was written in python3
 
 ## Example
 
-<img src="https://github.com/tr3boo/steam-price-checker/blob/master/example.png">
+<img src="https://github.com/tr3boo/steam-price-checker/blob/master/example1.png">
